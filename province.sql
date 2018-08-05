@@ -22,12 +22,12 @@ INSERT INTO schema.province (province_code,province_name,region) VALUES (12,'Non
 INSERT INTO schema.province (province_code,province_name,region) VALUES (13,'Pathum Thani',4);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (14,'Phra Nakhon Si Ayutthaya',4);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (15,'Ang Thong',4);
-INSERT INTO schema.province (province_code,province_name,region) VALUES (16,'Lopburi	',4);
+INSERT INTO schema.province (province_code,province_name,region) VALUES (16,'Lopburi',4);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (17,'Sing Buri',4);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (19,'Saraburi',4);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (26,'Nakhon Nayok',4);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (70,'Ratchaburi',5);
-INSERT INTO schema.province (province_code,province_name,region) VALUES (71,'Kanchanaburi	',5);
+INSERT INTO schema.province (province_code,province_name,region) VALUES (71,'Kanchanaburi',5);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (72,'Suphan Buri',5);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (73,'Nakhon Pathom',5);
 INSERT INTO schema.province (province_code,province_name,region) VALUES (74,'Samut Sakhon',5);
